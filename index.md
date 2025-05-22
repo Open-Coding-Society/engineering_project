@@ -102,7 +102,7 @@ menu: nav/home.html
     <div class="card">
       <h2>🎓 Major Matching</h2>
       <p>View a database of past students, their college majors, and STEM projects. Enter your project type to get matched with potential majors!</p>
-      <a href="/flocker_frontend/majormatch">Try Major Match →</a>
+      <a href="/flocker_frontend/game">Try Major Match →</a>
     </div>
 
     <div class="card">
