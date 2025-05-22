@@ -17,6 +17,9 @@ permalink: /majormatch
       background: linear-gradient(to right, #fce4ec, #e1f5fe);
       color: #333;
     }
+        header, .site-header, .top-banner {
+  display: none !important;
+    } 
 
     header {
       background-color: #006064;
