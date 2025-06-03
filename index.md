@@ -116,6 +116,12 @@ menu: nav/home.html
       <p>Ask questions, give answers, and explore a database of frequently asked questions. Great for peer support!</p>
       <a href="/flocker_frontend/posts">Go to Q&A →</a>
     </div>
+    <div class="card">
+      <h2>🏛️ Architecture & Design</h2>
+      <p>Explore the intersection of engineering and architecture. See how structural design, sustainability, and creativity shape our built environment.</p>
+      <a href="/flocker_frontend/autocadbg">Explore Architecture →</a>
+    </div>
+
   </div>
 
   <footer>
