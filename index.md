@@ -102,20 +102,26 @@ menu: nav/home.html
     <div class="card">
       <h2>🎓 Major Matching</h2>
       <p>View a database of past students, their college majors, and STEM projects. Enter your project type to get matched with potential majors!</p>
-      <a href="/flocker_frontend/game">Try Major Match →</a>
+      <a href="/engineering_project/game">Try Major Match →</a>
     </div>
 
     <div class="card">
       <h2>⚙️ Engineering Types & Careers</h2>
       <p>Learn about different engineering disciplines and future job opportunities. Participate in a survey to see what’s most popular among students!</p>
-      <a href="/flocker_frontend/survey">Take the Survey →</a>
+      <a href="/engineering_project/survey">Take the Survey →</a>
     </div>
 
     <div class="card">
       <h2>💬 Q&A Forum</h2>
       <p>Ask questions, give answers, and explore a database of frequently asked questions. Great for peer support!</p>
-      <a href="/flocker_frontend/posts">Go to Q&A →</a>
+      <a href="/engineering_project/posts">Go to Q&A →</a>
     </div>
+    <div class="card">
+      <h2>🏛️ Architecture & Design</h2>
+      <p>Explore the intersection of engineering and architecture. See how structural design, sustainability, and creativity shape our built environment.</p>
+      <a href="/flocker_frontend/autocadbg">Explore Architecture →</a>
+    </div>
+
   </div>
 
   <footer>
